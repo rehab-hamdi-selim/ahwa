@@ -77,7 +77,7 @@ class _NewOrderScreenState extends State<NewOrderScreen> {
                   children: [
                     // Customer Name
                     Column(
-                      spacing: 12,
+                      spacing: 18,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       mainAxisSize: MainAxisSize.min,
                       children: [
