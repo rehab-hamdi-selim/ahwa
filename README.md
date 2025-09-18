@@ -31,16 +31,16 @@ In this project, I applied Object-Oriented Programming (OOP) and SOLID principle
 
 ## 📸 Screenshots
 
-**Pic 1 – Dashboard**  
+**Dashboard**  
 ![Dashboard](https://github.com/user-attachments/assets/d979d8cd-3c84-495b-8ba9-8b58bdb71c90)
 
-**Pic 2 – Make New Order**  
+**Make New Order**  
 ![Make New Order](https://github.com/user-attachments/assets/f7d65d65-089c-4cda-a160-4ec743a909b3)
 
-**Pic 3 – Dashboard After Adding Orders**  
+**Dashboard After Adding Orders**  
 ![Dashboard After Orders](https://github.com/user-attachments/assets/bdb2739a-99dc-4815-985d-74b112b800dd)
 
-**Pic 4 – Reports Screen**  
+**Reports Screen**  
 ![Reports Screen](https://github.com/user-attachments/assets/f9e28f63-be90-4b8b-818f-7010773b7a9f)
 
 
